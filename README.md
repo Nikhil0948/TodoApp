@@ -72,3 +72,6 @@ src/
 
 This project is for learning and personal use.  
 Feel free to modify and use as you wish!
+
+I hope you guyz like it...
+🔗 **Live Demo**: [todoappbynikss.netlify.app](https://todoappbynikss.netlify.app/)
